@@ -30,4 +30,7 @@
 
 ## Questions
 - Difference between let and const?
-- 
+- Bootstrap
+- UI vs UX
+- Frontend vs Backend
+- DevOps
